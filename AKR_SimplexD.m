@@ -3,9 +3,9 @@ close all
 
 %---------------------------------------------------------
 % Copyright by Ana Maria Acu and Stefano De Marchi
-% March 2022
+% July 2023
 %
-%  This script compute the Aldaz and Bernstein approximation
+%  This script computes the Aldaz and Bernstein approximation
 %  of a function on a triangle
 %---------------------------------------------------------
 
